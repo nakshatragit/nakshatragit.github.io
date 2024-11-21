@@ -4,7 +4,7 @@ Welcome to my portfolio! Here you'll find information about my background, educa
 
 ---
 ## Images
-![Profile Picture](https://example.com/profile.jpg)
+![Profile Picture](profile.png)
 
 ---
 ## About Me
@@ -63,19 +63,19 @@ An e-commerce platform allowing users to browse products and make purchases. Bui
 
 You can reach out to me through the following:
 
-- **Email**: [yourname@example.com](mailto:nakshatrabansal2023@gmail.com)
-- **LinkedIn**: [linkedin.com/in/yourusername](https://linkedin.com/in/)
-- **GitHub**: [github.com/yourusername](https://github.com/nakshatragit/)
+- **Email**: [nakshatrabansal@gmail.com](mailto:nakshatrabansal2023@gmail.com)
+- **LinkedIn**: [linkedin.com/in/](https://linkedin.com/in/)
+- **GitHub**: [github.com/nakshatragit](https://github.com/nakshatragit/)
 
 ---
 
 ## Testimonials
 
-> "I had the pleasure of working with [Your Name] on a project, and their work ethic and skills were impressive. They are a talented developer with great attention to detail."  
-— *Client Name, Position*
+> "I had the pleasure of working with yash on a project, and their work ethic and skills were impressive. They are a talented developer with great attention to detail."  
+— *Vansh, Positio*
 
-> "A highly skilled developer who is easy to work with. I recommend [Your Name] for any project requiring web development expertise."  
-— *Another Client, Position*
+> "A highly skilled developer who is easy to work with. I recommend nakshatra for any project requiring web development expertise."  
+— *Yash, Position*
 
 ---
 
