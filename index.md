@@ -4,7 +4,9 @@ Welcome to my portfolio! Here you'll find information about my background, educa
 
 ---
 ## Images :boy:
-![Profile Picture](profile.png)
+<p align="center">
+  <img width="460" height="300" src=profile.png>
+</p>
 
 ---
 ## About Me
@@ -85,10 +87,6 @@ You can reach out to me through the following:
 - **JavaScript Algorithms and Data Structures** – FreeCodeCamp (2022)
 
 ---
-
-
-
-
 
 Thank you for visiting my portfolio :tada:
 
