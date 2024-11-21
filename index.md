@@ -4,9 +4,7 @@ Welcome to my portfolio! Here you'll find information about my background, educa
 
 ---
 ## Images :boy:
-<p align="center">
-  <img src="profile.png">
-</p>
+<p align="center"><img src="profile.png"></p>
 
 ---
 ## About Me 
