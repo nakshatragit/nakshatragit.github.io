@@ -3,7 +3,7 @@
 Welcome to my portfolio! Here you'll find information about my background, education, skills, interests, and how to contact me.
 
 ---
-## Images
+## Images :boy:
 ![Profile Picture](profile.png)
 
 ---
@@ -15,7 +15,7 @@ I believe in writing clean, efficient code and always look for ways to optimize 
 
 ---
 
-## Education
+## Education :v:
 
 | Degree            | Institution         | Year     | Major             |
 |-------------------|---------------------|----------|-------------------|
@@ -26,7 +26,7 @@ I graduated with honors and gained valuable experience in both theoretical and p
 
 ---
 
-## Skills
+## Skills "
 
 - **Languages**: HTML, CSS, JavaScript, Python, SQL
 - **Frameworks & Libraries**: React, Node.js, Express, Django, Bootstrap
@@ -79,7 +79,7 @@ You can reach out to me through the following:
 
 ---
 
-## Certifications
+## Certifications :star:
 
 - **Web Development Bootcamp** – Codecademy (2023)
 - **JavaScript Algorithms and Data Structures** – FreeCodeCamp (2022)
