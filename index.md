@@ -9,7 +9,7 @@ Welcome to my portfolio! Here you'll find information about my background, educa
 </p>
 
 ---
-## About Me
+## About Me 
 
 Hello! I'm ***Nakshatra Bansal***, a passionate web developer with a love for creating user-friendly and visually appealing websites. I have experience in front-end and back-end development, and I’m constantly learning new technologies to improve my skills.
 
@@ -18,11 +18,10 @@ I believe in writing clean, efficient code and always look for ways to optimize 
 ---
 
 ## Education :v:
-
 | Degree            | Institution         | Year     | Major             |
-|-------------------|---------------------|----------|-------------------|
-| Bachelor of Arts  | MNIT    | 2027     | Computer Science  |
-| High School       | XYZ High School     | 2023     | Science           |
+ |-------------------|---------------------|----------|-------------------|
+ | Bachelor of Arts  | MNIT    | 2027     | Computer Science  |
+  | High School       | XYZ High School     | 2023     | Science           |
 
 I graduated with honors and gained valuable experience in both theoretical and practical aspects of computing during my time at university. Throughout my education, I focused on software development and data structures, which laid the foundation for my current work.
 
@@ -42,7 +41,7 @@ I graduated with honors and gained valuable experience in both theoretical and p
 A personal portfolio website showcasing my skills and projects. Built using HTML, CSS, and JavaScript.
 
 - **Technologies**: HTML, CSS, JavaScript
-- **Live Demo**: [Personal Website](https://google.com)
+- **Live Demo**: [Personal Website]([https://google.com](https://nakshatragit.github.io/))
 
 ### Project 2: E-Commerce Application
 An e-commerce platform allowing users to browse products and make purchases. Built using React and Node.js.
@@ -87,6 +86,6 @@ You can reach out to me through the following:
 - **JavaScript Algorithms and Data Structures** – FreeCodeCamp (2022)
 
 ---
-
-Thank you for visiting my portfolio :tada:
+> [!NOTE]
+> Thank you for visiting my portfolio :tada:
 
