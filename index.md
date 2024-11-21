@@ -5,7 +5,7 @@ Welcome to my portfolio! Here you'll find information about my background, educa
 ---
 ## Images :boy:
 <p align="center">
-  <img width="460" height="300" src=profile.png>
+  <img src=profile.png>
 </p>
 
 ---
